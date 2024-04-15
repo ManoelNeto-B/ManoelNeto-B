@@ -9,6 +9,7 @@
 <h2>👾 Atualmente estou fazendo faculdade de TI na universidade federal👾</h2>
 <h3>🗿 Resentemente tenho trabalhado com a linguagem de programação C 🗿</h3> 
 <h3>👾 Não tenho tanto conhecimento de JS, CSS3 e HTML5 mas me interesso bastante por essas linguagens 👾</h3>
+<h3></h3>
 
 
 <img align="right" height="150" src="https://media.giphy.com/media/B4jfJqiIxvU08/giphy.gif?cid=ecf05e47vgag6erxbnjnewnt8ytozbb9jcmnll4gv1e6c7vd&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
