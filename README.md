@@ -5,9 +5,9 @@
 </div>
 ###
 
-<h2>👾 Atualmente estou fazendo faculdade de TI na universidade federal👾</h2>
-<h3>🗿 Resentemente tenho trabalhado com a linguagem de programação C 🗿</h3> 
-<h3>👾 Não tenho tanto conhecimento de JS, CSS3 e HTML5 mas me interesso bastante por essas linguagens 👾</h3>
+<h2>👾Atualmente estou fazendo faculdade de TI na universidade federal👾</h2>
+<h3>🗿Resentemente tenho trabalhado com a linguagem de programação C🗿</h3> 
+<h3>👾Não tenho tanto conhecimento de JS, CSS3 e HTML5 mas me interesso bastante por essas linguagens👾</h3>
 <h3></h3>
 
 
