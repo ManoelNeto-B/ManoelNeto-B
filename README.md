@@ -1,8 +1,8 @@
 <h1 align="center">Prazer 👋! meu nome é Manoel Neto e sou um programador em <br>  🚀desenvolvimento🚀</h1>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ManoelNeto-B&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ManoelNeto-B&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+![Manoel Neto GitHub stats]( https://github-readme-stats.vercel.app/api?username=ManoelNeto-B&show_icons=true&theme=radical )
+![Linguagens Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ManoelNeto-B&layout=compact&show_icons=true&theme=radical)
+
 ###
 
 <h2>👾Atualmente estou fazendo faculdade de TI na universidade federal👾</h2>
@@ -31,8 +31,11 @@
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  [![Gamil]( https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manoel.dev.ti@gmail.com )
+  <a href = "mailto:mariafranciscaflor73@hotmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="gmail logo"  />
 
 </div>
 
-###
+
+
+
+
